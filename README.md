@@ -1,26 +1,12 @@
-<div>
+<div align="center">
 
-  <!-- Title: Low-Level Memory Pointer Cyan -->
-  <svg width="650" height="42" viewBox="0 0 650 42" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="28" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="bold" fill="#00E5FF" letter-spacing="1">
-      ⚡ Security Researcher &amp; Systems Engineer
-    </text>
-  </svg>
+  <!-- Title: Cyan Monospace Header Badge -->
+  <img src="https://img.shields.io/badge/SECURITY_RESEARCHER_&_SYSTEMS_ENGINEER-0d1117?style=for-the-badge&labelColor=0d1117&color=00E5FF&logo=windows-terminal&logoColor=00E5FF" alt="Title" />
 
-  <br />
+  <br /><br />
 
-  <!-- Subtitle: Terminal Phosphor Green -->
-  <svg width="780" height="30" viewBox="0 0 780 30" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="20" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="600" fill="#39D353">
-      [+] Windows Internals • Offensive Tooling • Threat Research • Reverse Engineering
-    </text>
-  </svg>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-    <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+  <!-- Subtitle: Phosphor Green Monospace Subtitle Badge -->
+  <img src="https://img.shields.io/badge/%5B%2B%5D_WINDOWS_INTERNALS_•_OFFENSIVE_TOOLING_•_THREAT_RESEARCH_•_REVERSE_ENGINEERING-0d1117?style=flat-square&labelColor=0d1117&color=39D353" alt="Focus Areas" />
 
 </div>
 
