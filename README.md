@@ -1,49 +1,48 @@
-# # [اسم المستخدم الخاص بك هنا] // مطور برمجيات خبيثة وتحليل عكسي
+# [Your Name / Handle] 💀
 
-[![صورة الملف الشخصي المستوحاة من تحليل البرمجيات الخبيثة](https://github.com/[your_username]/[your_repo]/blob/main/profile-image.png?raw=true)](https://github.com/[your_username])
-
-أنا متخصص في تطوير برمجيات خبيثة وأبحاث أمنية متقدمة، مع التركيز على تحليل الأنظمة وفهم التهديدات السيبرانية. شغوف بتحديات الأمن السيبراني ومتابعة التطورات في هذا المجال.
+Malware Development & Reverse Engineering enthusiast. Focused on Windows internals, evasion techniques, and binary analysis.
 
 ---
 
-## 🛠️ لغات البرمجة والمهارات التقنية
+### 💻 Languages
 
-| اللغة | المهارة | الوصف |
-| :--- | :--- | :--- |
-| **C/C++** | تطوير برمجيات خبيثة | تطوير محملات مخصصة (Loaders) وتقنيات تجاوز الكشف. |
-| **تجميع x86/x64** | تحليل عكسي | فهم آليات العمل الداخلية للأنظمة وتحليل الشفرات البرمجية. |
-| **Python** | أتمتة وتحليل | تطوير أدوات أتمتة لعمليات التحليل واستخلاص المعلومات. |
-| **Rust** | تطوير آمن | استكشاف أدوات هجومية آمنة في الذاكرة. |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,asm,rust,py" alt="Languages" />
 </p>
 
----
-
-## 🔍 أدوات وأبحاث أخرى
-
-بالإضافة إلى لغات البرمجة، لدي خبرة في استخدام مجموعة واسعة من الأدوات والتقنيات:
-
-* **أدوات التحليل العكسي:** IDA Pro، Ghidra، x64dbg.
-* **مراقبة الأنظمة:** Sysinternals، Wireshark، Process Hacker.
-* **تحليل التهديدات:** YARA، Capa، Floss.
+* **C / C++** — Loaders, injectors, and API unhooking
+* **x86 / x64 ASM** — Syscall stubs, shellcode, and stack analysis
+* **Rust** — Memory-safe offensive tooling
+* **Python** — Automation, IDA/Ghidra scripting, and unpackers
 
 ---
 
-## 📊 إحصائيات GitHub
+### 🛠️ Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your_username]&show_icons=true&theme=radical&hide_border=true" alt="إحصائيات GitHub" />
+<p align="left">
+  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=flat-square&logo=hexo&logoColor=red" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&logo=dragon&logoColor=red" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/x64dbg-2A2A2A?style=flat-square&logoColor=00ff41" alt="x64dbg" />
+  <img src="https://img.shields.io/badge/WinDbg-002B36?style=flat-square&logo=windows&logoColor=white" alt="WinDbg" />
+  <img src="https://img.shields.io/badge/Sysinternals-1E1E1E?style=flat-square&logo=windows-terminal&logoColor=white" alt="Sysinternals" />
+  <img src="https://img.shields.io/badge/YARA-red?style=flat-square" alt="YARA" />
 </p>
 
+* **Disassembly & Debugging:** IDA Pro, Ghidra, x64dbg, WinDbg
+* **Analysis & Triage:** PE-bear, Process Hacker, pestudio, Wireshark, YARA
+
 ---
 
-## 📡 تواصل معي
+### 🔬 Else
 
-* **المدونة:** [رابط مدونتك التقنية]
-* **تويتر:** [@اسم_حسابك]
-* **لينكيد إن:** [اسمك_الكامل]
+* **Offensive Research:** Direct/indirect syscalls, PEB walking, process injection, AMSI/ETW patching.
+* **Reverse Engineering:** Unpacking, anti-analysis bypasses, IAT reconstruction, malware triage.
+* **Environment:** FLARE VM, REMnux, isolated virtualization labs.
+
+---
+
+### 📡 Contact
+
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn)](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Blog](https://img.shields.io/badge/Blog-00ff41?style=flat-square&logo=ghost&logoColor=black)](https://your-blog.example)
