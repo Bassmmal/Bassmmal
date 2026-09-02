@@ -1,6 +1,4 @@
-# [Your Name / Handle] 💀
-
-Malware Development & Reverse Engineering enthusiast. Focused on Windows internals, evasion techniques, and binary analysis.
+Malware developer, and expertise in windows internals and cybersecurity threats
 
 ---
 
