@@ -1,14 +1,12 @@
-<div align="center">
+<div>
 
-  <h1>⚡ Security Researcher & Systems Engineer</h1>
+  <h3>Security Researcher & Systems Engineer</h1>
   
   <p>
     <strong>Specialized in Windows Internals • Offensive Tooling • Threat Research • Reverse Engineering</strong>
   </p>
 
 </div>
-
----
 
 ```c
 typedef struct _RESEARCHER_CONTEXT {
