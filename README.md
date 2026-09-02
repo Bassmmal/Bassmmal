@@ -1,6 +1,6 @@
 <div>
 
-  <h3>Security Researcher & Systems Engineer</h1>
+  <h3>Security Researcher & Systems Engineer</h3>
   
   <p>
     <strong>Specialized in Windows Internals • Offensive Tooling • Threat Research • Reverse Engineering</strong>
