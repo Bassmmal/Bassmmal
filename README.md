@@ -1,16 +1,11 @@
 <div>
-
-  <h1><code>Security Researcher &amp; Systems Engineer</code></h1>
-
   <p>
-    <code>[+] Specialized in Windows Internals • Offensive Tooling • Threat Research • Reverse Engineering</code>
+    <code>[+] Specialized in Windows Internals, Offensive Tooling, Threat Research, Reverse Engineering</code>
   </p>
 
 </div>
 
 ---
-
-### 🛡️ Runtime Context
 
 ```c
 typedef struct _RESEARCHER_CONTEXT {
